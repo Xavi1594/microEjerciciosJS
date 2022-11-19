@@ -1,7 +1,4 @@
-// 
-// * Conectar archivo javascript al html de destino
-// definir el espacio del mensaje
-// acceder al contenedor desde js
+
 // establecer las variables
 // crear la funcion/
  
